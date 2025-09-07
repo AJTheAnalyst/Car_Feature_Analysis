@@ -8,6 +8,7 @@ For the given dataset, as a Data Analyst, the client has asked How can a car man
 Insights and Recommendation are provided on the following key areas:
 
 **Car Feature Analysis:** Evaluation of Car features and its impact on MSRP.
+
 **Price Optimization:** Optimizing Price for Each Brand
 
 
