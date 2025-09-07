@@ -38,7 +38,7 @@ Make (Manufacturer / Brand)
 
 Adding some values from the dataset to better understand the data Example:
 
-
+```
 Make: Ford
 └── Model: F-150
       └── Year: 2020
@@ -54,6 +54,7 @@ Make: Ford
            ├── Market Category: Utility, Pickup
            ├── Popularity: Very High (best-selling in the U.S.)
            └── MSRP: ~$30,000–$70,000 
+```
 
 "Ford F-150 (2020) is a full-size pickup truck positioned in the utility market segment. It comes with automatic transmission, 4-wheel drive, and gasoline engines ranging from V6 to V8 with 290–450 HP. Fuel efficiency is approximately 16–20 MPG in city driving and 22–26 MPG on highways. Recognized as the best-selling truck in the U.S., its popularity is very high, with an MSRP range of $30,000 to $70,000 depending on trim level."
 
