@@ -14,6 +14,7 @@ For the given dataset, as a Data Analyst, the client has asked How can a car man
 
 ## Data Understanding :
 
+```
 Make (Manufacturer / Brand)
 └── Model
 └── Year
@@ -33,7 +34,7 @@ Make (Manufacturer / Brand)
 │ └── City MPG
 ├── Popularity
 └── MSRP
-
+```
 
 Adding some values from the dataset to better understand the data Example:
 
