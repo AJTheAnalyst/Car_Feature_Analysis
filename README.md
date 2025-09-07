@@ -14,6 +14,8 @@ For the given dataset, as a Data Analyst, the client has asked How can a car man
 
 ## Data Understanding :
 
+To Understand the Data I Generate a Hierarchy to do inital basic Understanding of the data
+
 ```
 Make (Manufacturer / Brand)
 └── Model
