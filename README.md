@@ -14,26 +14,26 @@ For the given dataset, as a Data Analyst, the client has asked How can a car man
 
 ## Data Understanding :
 
-Popularity
 Make (Manufacturer / Brand)
- └── Model
-      └── Year
-           ├── Technical Specs
-           │     ├── Engine Fuel Type
-           │     ├── Engine HP
-           │     ├── Engine Cylinders
-           │     ├── Transmission Type
-           │     └── Driven Wheels
-           ├── Physical Attributes
-           │     ├── Vehicle Style
-           │     ├── Vehicle Size
-           │     └── Number of Doors
-           ├── Market Category
-           ├── Performance Metrics
-           │     ├── Highway MPG
-           │     └── City MPG
-           ├── Popularity
-           └── MSRP
+└── Model
+└── Year
+├── Technical Specs
+│ ├── Engine Fuel Type
+│ ├── Engine HP
+│ ├── Engine Cylinders
+│ ├── Transmission Type
+│ └── Driven Wheels
+├── Physical Attributes
+│ ├── Vehicle Style
+│ ├── Vehicle Size
+│ └── Number of Doors
+├── Market Category
+├── Performance Metrics
+│ ├── Highway MPG
+│ └── City MPG
+├── Popularity
+└── MSRP
+
 
 Adding some values from the dataset to better understand the data Example:
 
