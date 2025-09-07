@@ -12,7 +12,7 @@ For the given dataset, as a Data Analyst, the client has asked How can a car man
 **Price Optimization:** Optimizing Price for Each Brand
 
 
-## Data Understanding :
+# Data Understanding :
 
 To Understand the Data I Generate a Hierarchy to do inital basic Understanding of the data
 
@@ -61,5 +61,7 @@ Make: Ford
 "Ford F-150 (2020) is a full-size pickup truck positioned in the utility market segment. It comes with automatic transmission, 4-wheel drive, and gasoline engines ranging from V6 to V8 with 290–450 HP. Fuel efficiency is approximately 16–20 MPG in city driving and 22–26 MPG on highways. Recognized as the best-selling truck in the U.S., its popularity is very high, with an MSRP range of $30,000 to $70,000 depending on trim level."
 
 
+# Data Strucure and Initial Checks :
 
+<img width="487" height="555" alt="Screenshot (422)" src="https://github.com/user-attachments/assets/e9f0821a-3162-4fd2-805a-445febb10f77" />
 
