@@ -63,5 +63,8 @@ Make: Ford
 
 # Data Strucure and Initial Checks :
 
+This is is the Dataset Stucture Used for analysis Obtained From Trainity Website , It Consists of 16 Columns .
+
 <img width="487" height="555" alt="Screenshot (422)" src="https://github.com/user-attachments/assets/e9f0821a-3162-4fd2-805a-445febb10f77" />
 
+# Executive Summary :
